@@ -6,7 +6,7 @@ import { RouterLink } from '@angular/router';
   selector: 'app-bbb',
   standalone: true,
   imports: [RouterLink],
-  providers: [StoreService],
+  providers: [],
   templateUrl: './bbb.component.html',
   styleUrl: './bbb.component.scss'
 })

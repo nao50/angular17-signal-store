@@ -6,7 +6,7 @@ import { RouterLink } from '@angular/router';
   selector: 'app-aaa',
   standalone: true,
   imports: [RouterLink],
-  providers: [StoreService],
+  providers: [],
   templateUrl: './aaa.component.html',
   styleUrl: './aaa.component.scss'
 })
